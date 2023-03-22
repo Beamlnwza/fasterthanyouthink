@@ -37,7 +37,6 @@ function OperationField({ setUserAnswer }) {
 
 	const secretActive = async () => {
 		if (value === "123") {
-			setSecret1(true);
 		}
 	};
 
