@@ -1,3 +1,5 @@
+# 2.0 is Comming soon!
+
 # Faster than you Think
 Faster than you Think is a web-based game that follows the style of the popular television show, 24 games, but with 4 digits and a target number that can range from 0 to 99. The game has been built using React, Redux, and SCSS and does not require a backend API.
 
